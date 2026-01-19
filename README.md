@@ -8,3 +8,5 @@ Computer Science student with hands-on experience in backend web development.
 Developed a thesis-based web application focused on **job matching** and **resume generation**.
 
 **Skills:** System Troubleshooting · Database Management · Technical Support  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
