@@ -9,4 +9,7 @@ Developed a thesis-based web application focused on **job matching** and **resum
 
 **Skills:** System Troubleshooting · Database Management · Technical Support  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 20px />
+</p>
+
