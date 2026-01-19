@@ -1,5 +1,10 @@
 # chotto-des
 
-**Digital Wizard**
+> 💻 **Computer Science Student | Backend Development**
 
-Computer Science student with hands-on experience in backend web development using PHP, Laravel, and MySQL. Developed a thesis-based web application focused on job matching and resume generation. Skilled in system troubleshooting, database management, and technical support. Seeking an internship opportunity to apply technical skills and gain practical industry experience.
+**PHP • Laravel • MySQL**
+
+Computer Science student with hands-on experience in backend web development.  
+Developed a thesis-based web application focused on **job matching** and **resume generation**.
+
+**Skills:** System Troubleshooting · Database Management · Technical Support  
